@@ -12,7 +12,7 @@ Welcome to the "Data Structures and Applications" repository! This repository co
 In this repository, you will find C code implementations of different data structures such as linked lists, stacks, queues, trees, and more. The codes are organized to help you understand the fundamentals of each data structure and how they can be applied in real-world scenarios.
 
 ## Directory Structure
-- **[Week 1](Week1):** 
+- **[Week 1](Week 1):** 
 
 ## How to Use
 Each week's directory contains the C code files along with a brief description of the purpose and functionality of the code. To use the code, follow these steps:

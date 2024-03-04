@@ -1,7 +1,7 @@
 # Data-Structers-and-Applications-4th-SEM-
 
 
-**Welcome to the "Data Structures and Applications" repository! This repository contains a collection of C codes Compiled by Jyotiradhitya BK and codes are related to C language and various data structures. The goal is to provide a resource for learning and implementing common data structures.**
+**Welcome to the "Data Structures and Applications" repository! This repository contains a collection of C codes Compiled by Jyotiradhitya BK.Codes are related to C language and various data structures. The goal is to provide a resource for learning and implementing common data structures.**
 
 ## Table of Contents
 - [Introduction](#introduction)
